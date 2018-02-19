@@ -1,2 +1,1 @@
-# discord_quiz_bot
-Python discord bot
+Requires discord.py library with Python 3.6.x
